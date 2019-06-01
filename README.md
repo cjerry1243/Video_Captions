@@ -8,5 +8,3 @@ Get BLEU score = 0.65 on test data
 2. keras==2.0.7
 3. tensorflow==1.3
 
-## Data is not provided in this repository !!!
-
